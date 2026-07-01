@@ -11,11 +11,10 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigators
-          - Researchers
-          - Grad Students
-          - Administration
-          - Visitors
+          - Professor
+          - Ph.D. Students
+          - M.S. Students
+          - Undergraduate Researchers
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true
@@ -23,4 +22,5 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+      show_avatar: true
 ---
