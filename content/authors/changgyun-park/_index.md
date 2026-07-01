@@ -1,11 +1,11 @@
 ---
-title: Jaeho Lee
-first_name: Jaeho 
-last_name: Lee
+title: Changgyun Park
+first_name: Changgyun 
+last_name: Park
 role: M.S Student
-      leejh6783@gmail.com​
+      kevin9911@hanyang.ac.kr
 
-sort_order: 98
+sort_order: 99
 organizations:
   - name: Dept. of Electronic Engineering in Hanyang University
     url: http://electronic.hanyang.ac.kr/kor/main/
@@ -20,6 +20,6 @@ education:
       institution: Hanyang University
 
 interests:
-  - Wireless Power and Data Transfer System
+  - Low noise amplifier for RF application
 ---
-**Initial placement after graduation:** Texas Instruments (TI)
+

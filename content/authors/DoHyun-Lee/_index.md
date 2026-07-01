@@ -5,7 +5,7 @@ last_name: Lee
 role: M.S Student
       the8thhabit@hanyang.ac.kr
 
-sort_order: 98
+sort_order: 97
 
 organizations:
   - name: Dept. of Artificial Intelligence Semiconductor Engineering in Hanyang University
