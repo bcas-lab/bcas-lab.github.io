@@ -11,6 +11,7 @@ superuser: true
 
 # Role/position
 role: Associate Professor
+      blee22@hanyang.ac.kr
 
 # Organizations/Affiliations
 organizations:
@@ -55,5 +56,7 @@ user_groups:
 ---
 
 Byunghun Lee is an Associate Professor at Hanyang University. His research focuses on low-power integrated circuits and systems for neural interfaces, wireless power and data transfer, neuromodulation, and wearable/implantable bioelectronics.
+
+**Email:** [blee22@hanyang.ac.kr](mailto:blee22@hanyang.ac.kr)
 
 The Biomedical Circuits and Systems Lab develops biomedical ICs and system-level platforms spanning circuit design, chip implementation, PCB/system integration, measurement, and experimental validation.
