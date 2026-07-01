@@ -22,20 +22,21 @@ organizations:
 bio: Integrated circuits and systems for neural interfaces, wireless power and data transfer, neuromodulation, and bioelectronic systems.
 
 interests:
-  - Neural Interface ICs
-  - Wireless Power and Data Transfer
-  - Neuromodulation Systems
-  - Biomedical Sensor Interfaces
-  - Wearable and Implantable Bioelectronics
+  - Brain–computer interface (BCI) and neural interface hardware
+  - Integrated circuits for neural recording and stimulation
+  - Wireless power and data transfer circuits and systems
+  - Low-power analog and mixed-signal IC design
+  - Bioelectronic and sensor interface circuits
+  - PVT sensors and semiconductor interface circuits
 
 education:
   courses:
-    - course: Ph.D. in Electrical Engineering
-      institution: KAIST
+    - course: Ph.D. in Electrical and Computer Engineering
+      institution: Georgia Institute of Technology
     - course: M.S. in Electrical Engineering
       institution: KAIST
     - course: B.S. in Electrical Engineering
-      institution: KAIST
+      institution: Korea University
 
 social:
   - icon: envelope
@@ -43,7 +44,7 @@ social:
     link: 'mailto:blee22@hanyang.ac.kr'
   - icon: google-scholar
     icon_pack: ai
-    link: ''
+    link: 'https://scholar.google.co.kr/citations?hl=ko&user=CQJzaI0AAAAJ'
   - icon: orcid
     icon_pack: ai
     link: ''
