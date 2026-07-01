@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Biomedical Circuits and Systems Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The Biomedical Circuits and Systems Lab develops low-power integrated circuits and systems for neural interfaces, wireless power and data transfer, neuromodulation, and biomedical sensor applications.
   
   - block: collection
     content:
