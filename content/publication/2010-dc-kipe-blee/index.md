@@ -10,7 +10,7 @@ date: "2010-11-01T00:00:00Z"
 doi: ""
 
 publication_types:
-  - paper-conference
+  - domestic-conference
 
 categories:
   - Domestic Conference Papers

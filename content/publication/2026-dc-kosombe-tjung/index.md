@@ -12,7 +12,7 @@ date: "2026-05-08T00:00:00Z"
 doi: ""
 
 publication_types:
-  - paper-conference
+  - domestic-conference
 
 categories:
   - Domestic Conference Papers

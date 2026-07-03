@@ -14,7 +14,7 @@ date: "2016-08-01T00:00:00Z"
 doi: ""
 
 publication_types:
-  - paper-conference
+  - international-conference
 
 categories:
   - International Conference Papers

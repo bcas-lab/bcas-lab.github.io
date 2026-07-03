@@ -15,7 +15,7 @@ date: "2018-02-01T00:00:00Z"
 doi: ""
 
 publication_types:
-  - paper-conference
+  - international-conference
 
 categories:
   - International Conference Papers

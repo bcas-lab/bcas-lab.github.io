@@ -10,7 +10,7 @@ date: "2024-11-04T00:00:00Z"
 doi: ""
 
 publication_types:
-  - paper-conference
+  - international-conference
 
 categories:
   - International Conference Papers

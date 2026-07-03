@@ -9,7 +9,7 @@ date: "2023-11-03T00:00:00Z"
 doi: ""
 
 publication_types:
-  - paper-conference
+  - international-conference
 
 categories:
   - International Conference Papers

@@ -9,7 +9,7 @@ date: "2024-08-28T00:00:00Z"
 doi: ""
 
 publication_types:
-  - paper-conference
+  - domestic-conference
 
 categories:
   - Domestic Conference Papers
