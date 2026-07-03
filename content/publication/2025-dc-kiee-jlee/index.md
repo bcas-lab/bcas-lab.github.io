@@ -3,7 +3,6 @@ title: "저전력 시스템을 위한 단일 유도성 링크를 통한 무선 �
 
 authors:
   - junhyuk-lee
-  - "et al."
   - admin
 
 date: "2025-07-01T00:00:00Z"

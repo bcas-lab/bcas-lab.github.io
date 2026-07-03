@@ -3,7 +3,8 @@ title: "동물의 자유로운 움직임을 위한 Multiple Cyclic Exponential W
 
 authors:
   - taegil-jeong
-  - "et al."
+  - "황상문"
+  - "장동표"
   - admin
 
 date: "2025-05-01T00:00:00Z"

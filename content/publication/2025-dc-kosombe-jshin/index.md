@@ -3,7 +3,8 @@ title: "ECoG 측정을 위한 Wide Dynamic Range Low Noise Amplifier (WDR-LNA)"
 
 authors:
   - jaehyeong-shin
-  - "et al."
+  - dongil-kang
+  - dohyung-lee
   - admin
 
 date: "2025-05-01T00:00:00Z"

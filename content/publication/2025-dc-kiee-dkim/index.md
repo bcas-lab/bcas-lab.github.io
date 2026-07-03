@@ -3,7 +3,6 @@ title: "무선 전력 공급 이식형 기기를 위한 넓은 출력 전압 차
 
 authors:
   - dongrim-kim
-  - "et al."
   - admin
 
 date: "2025-07-01T00:00:00Z"

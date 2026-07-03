@@ -1,14 +1,14 @@
 ---
-title: "Towards a Square-Wave-Based Temporal Interference Stimulation System for Neuromodulation"
+title: "신경 조절을 위한 무선 사각파 기반 시간 간섭 자극 IC"
 
 authors:
   - yemin-kim
   - junhyuk-lee
-  - jaejun-kil
+  - jae-jun-kil
   - dongrim-kim
   - admin
 
-date: "2025-11-01T00:00:00Z"
+date: "2026-05-08T00:00:00Z"
 doi: ""
 
 publication_types:
@@ -17,7 +17,7 @@ publication_types:
 categories:
   - Domestic Conference Papers
 
-publication: "대한의용생체공학회 제66회 추계학술대회"
+publication: "대한의용생체공학회 제67회 춘계학술대회"
 publication_short: "대한의용생체공학회"
 
 abstract: ""
@@ -26,10 +26,10 @@ summary: ""
 
 tags:
   - Temporal Interference Stimulation
+  - Square-Wave Stimulation
   - Neuromodulation
-  - Stimulation System
-  - Biomedical Circuits
-  - Neural Engineering
+  - Stimulation IC
+  - Biomedical IC
 
 featured: false
 

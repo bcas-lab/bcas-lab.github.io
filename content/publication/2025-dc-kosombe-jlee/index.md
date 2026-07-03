@@ -3,7 +3,12 @@ title: "경골 신경 자극을 위한 대역 내 데이터 원격 측정 기능
 
 authors:
   - junhyuk-lee
-  - "et al."
+  - dongrim-kim
+  - "김유경"
+  - "김태우"
+  - "김태경"
+  - "손영민"
+  - "이규성"
   - admin
 
 date: "2025-11-01T00:00:00Z"
