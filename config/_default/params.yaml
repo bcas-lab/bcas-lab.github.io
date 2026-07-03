@@ -34,6 +34,9 @@ marketing:
 header:
   navbar:
     enable: true
+    logo:
+      filename: navbar-logo.png
+      text: ''
     align: r
     show_logo: true
     show_language: false

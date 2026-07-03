@@ -1,0 +1,19 @@
+.navbar-brand {
+  display: inline-block;
+  width: 360px;
+  height: 46px;
+  background-image: url("/media/navbar-logo.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left center;
+  text-indent: -9999px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .navbar-brand {
+    width: 240px;
+    height: 38px;
+  }
+}

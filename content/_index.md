@@ -13,8 +13,12 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The Biomedical Circuits and Systems Lab develops low-power integrated circuits and systems for neural interfaces, wireless power and data transfer, neuromodulation, and biomedical sensor applications.
+
+        The Biomedical Circuits and Systems Lab develops low-power integrated circuits and systems for neural interfaces, wireless power and data transfer, neuromodulation, and bioelectronic systems.
+
+        <span style="font-size: 0.95rem; color: #666;">
+        Hanyang University
+        </span>
   
   - block: collection
     content:
