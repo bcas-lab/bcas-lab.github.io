@@ -12,7 +12,7 @@ sections:
         <style>
           .research-card-img {
             width: 100%;
-            height: 200px;
+            height: 240px;
             object-fit: cover;
             object-position: center;
             border-top-left-radius: var(--bs-card-inner-border-radius);
