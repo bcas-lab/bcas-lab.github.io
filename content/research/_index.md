@@ -12,7 +12,7 @@ sections:
         <style>
           .research-card-img {
             width: 100%;
-            height: 240px;
+            height: 220px;
             object-fit: cover;
             object-position: center;
             border-top-left-radius: var(--bs-card-inner-border-radius);
@@ -46,7 +46,7 @@ sections:
 
           <div class="col-md-6 col-lg-4 mb-4">
             <div class="card h-100 shadow-sm research-card">
-              <img src="/uploads/media/research1.png" class="card-img-top research-card-img" alt="Neural Recording ICs">
+              <img src="/media/research1.png" class="card-img-top research-card-img" alt="Neural Recording ICs">
               <div class="card-body">
                 <h3 class="card-title">Neural Recording ICs</h3>
                 <p class="card-text">
@@ -59,9 +59,9 @@ sections:
 
           <div class="col-md-6 col-lg-4 mb-4">
             <div class="card h-100 shadow-sm research-card">
-              <img src="/uploads/media/research2.png" class="card-img-top research-card-img" alt="Wireless Power and Data Transfer">
+              <img src="/media/research2.png" class="card-img-top research-card-img" alt="Wireless Power and Data Transfer">
               <div class="card-body">
-                <h3 class="card-title">Wireless Power & Data Transfer</h3>
+                <h3 class="card-title">Wireless Power & Data Transfer IC</h3>
                 <p class="card-text">
                   Miniaturized wireless power and synchronized data links for wearable, implantable, and distributed biomedical systems.
                 </p>
@@ -72,7 +72,7 @@ sections:
 
           <div class="col-md-6 col-lg-4 mb-4">
             <div class="card h-100 shadow-sm research-card">
-              <img src="/uploads/media/research3.png" class="card-img-top research-card-img" alt="Neuromodulation ICs">
+              <img src="/media/research3.png" class="card-img-top research-card-img" alt="Neuromodulation ICs">
               <div class="card-body">
                 <h3 class="card-title">Neuromodulation ICs</h3>
                 <p class="card-text">
@@ -85,7 +85,7 @@ sections:
 
           <div class="col-md-6 col-lg-4 mb-4">
             <div class="card h-100 shadow-sm research-card">
-              <img src="/uploads/media/research4.png" class="card-img-top research-card-img" alt="PVT Sensor ICs">
+              <img src="/media/research4.png" class="card-img-top research-card-img" alt="PVT Sensor ICs">
               <div class="card-body">
                 <h3 class="card-title">PVT Sensor ICs</h3>
                 <p class="card-text">
@@ -98,7 +98,7 @@ sections:
 
           <div class="col-md-6 col-lg-4 mb-4">
             <div class="card h-100 shadow-sm research-card">
-              <img src="/uploads/media/research5.png" class="card-img-top research-card-img" alt="Wearable and Implantable Bioelectronic Systems">
+              <img src="/media/research5.png" class="card-img-top research-card-img" alt="Wearable and Implantable Bioelectronic Systems">
               <div class="card-body">
                 <h3 class="card-title">Wearable & Implantable Bioelectronic Systems</h3>
                 <p class="card-text">
