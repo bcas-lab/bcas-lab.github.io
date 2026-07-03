@@ -61,7 +61,7 @@ sections:
             <div class="card h-100 shadow-sm research-card">
               <img src="/media/research2.png" class="card-img-top research-card-img" alt="Wireless Power and Data Transfer">
               <div class="card-body">
-                <h3 class="card-title">Wireless Power & Data Transfer IC</h3>
+                <h3 class="card-title">Wireless Power & Data Transfer ICs</h3>
                 <p class="card-text">
                   Miniaturized wireless power and synchronized data links for wearable, implantable, and distributed biomedical systems.
                 </p>
