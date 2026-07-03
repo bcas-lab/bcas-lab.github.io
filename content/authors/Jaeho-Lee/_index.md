@@ -22,4 +22,4 @@ education:
 interests:
   - Wireless Power and Data Transfer System
 ---
-**Initial placement after graduation:** Texas Instruments (TI)
+**Initial placement after graduation:** Ph.D. program in Georgia Institute of Technology
