@@ -4,7 +4,7 @@ title: "신경 조절을 위한 무선 사각파 기반 시간 간섭 자극 IC"
 authors:
   - yemin-kim
   - junhyuk-lee
-  - jae-jun-kil
+  - jaejun-kil
   - dongrim-kim
   - admin
 
