@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: BCAS Lab # Website name
-baseURL: 'https://bcas-lab.github.io/' # Website URL
+baseURL: "https://www.byunghunlee.com/" # Website URL
 
 ############################
 ## LANGUAGE
