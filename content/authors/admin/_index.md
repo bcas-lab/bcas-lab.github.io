@@ -69,15 +69,6 @@ The Biomedical Circuits and Systems Lab develops biomedical ICs and system-level
 - Assistant Professor, Hanyang University, Korea, 2021–2025
 - Assistant Professor, Incheon National University, Korea, 2017–2021
 
-## Research Interests
-
-- Brain–computer interface (BCI) and neural interface hardware
-- Integrated circuits for neural recording and stimulation
-- Wireless power and data transfer circuits and systems
-- Low-power analog and mixed-signal IC design
-- Bioelectronic and sensor interface circuits
-- PVT sensors and semiconductor interface circuits
-
 ## Professional Activities
 
 - Associate Editor, *IEEE Transactions on Biomedical Circuits and Systems* (TBioCAS), 2024–2025
