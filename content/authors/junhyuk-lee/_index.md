@@ -16,8 +16,8 @@ user_groups:
 
 education:
   courses:
-    - course: B.S. in Electronic Engineering
-      institution: Hanyang University
+    - course: B.S. in Display Engineering
+      institution: Dankook University
 
 interests:
   - Wireless Power/Data Transfer IC, PVT sensor IC
