@@ -6,6 +6,32 @@ date: 2026-07-01
 <div class="conference-list">
 <section class="conference-card">
 <div class="conference-info">
+<h4>2026 The Korean Society of Medical & Biological Engineering Spring Conference</h4>
+<p>2026.05.07 - 2026.05.09 <br>Shinhwa World, Jeju, Korea </p>
+<p><strong>Attendees</strong><br>Yemin Kim, Tegil Jeong, Dongrim Kim</p>
+</div>
+<div class="conference-slider">
+<figure>
+<img src="/media/gallery/conferences-events/7-1.jpg" >
+</figure>
+<figure>
+<img src="/media/gallery/conferences-events/7-2.jpg" >
+</figure>
+<figure>
+<img src="/media/gallery/conferences-events/7-3.jpg" >
+</figure>
+<figure>
+<img src="/media/gallery/conferences-events/7-4.jpg" >
+</figure>
+
+</div>
+</section>
+</div>
+
+
+<div class="conference-list">
+<section class="conference-card">
+<div class="conference-info">
 <h4>2025 The Korean Society of Medical & Biological Engineering Fall Conference</h4>
 <p>2025.11.06 - 2025.11.08 <br>Inje University, Gimhae, Korea</p>
 <p><strong>Attendees</strong><br>Yemin Kim, Dongrim Kim</p>
