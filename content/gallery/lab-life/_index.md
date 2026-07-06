@@ -15,7 +15,7 @@ date: 2026-07-01
   <figure>
     <img src="/media/gallery/lab-life/014.jpg" alt="Lab life photo 001">
     <figcaption>
-      <strong> 2026 BK 우수 학생 논문상 (아준혁) </strong><br>
+      <strong> 2026 BK 우수 학생 논문상 (이준혁) </strong><br>
       ​2026.02.11<br>
     </figcaption>
   </figure>
