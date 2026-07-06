@@ -20,5 +20,5 @@ education:
       institution: Dankook University
 
 interests:
-  - Wireless Power/Data Transfer IC, PVT sensor IC
+  - Wireless Power/Data Transfer IC, PVT sensor IC, Wireless stimulator
 ---
