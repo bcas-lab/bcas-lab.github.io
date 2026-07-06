@@ -1,6 +1,6 @@
 ---
-title: Junhyuk Lee
-first_name: Junhyuk
+title: Junhyuck Lee
+first_name: Junhyuck
 last_name: Lee
 role: Ph.D. Student
       wnsgur2906@hanyang.ac.kr
