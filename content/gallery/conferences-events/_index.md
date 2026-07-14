@@ -58,11 +58,9 @@ date: 2026-07-01
 <div class="conference-slider">
 <figure>
 <img src="/media/gallery/conferences-events/5-1.jpg" >
-<figcaption>2024 ICCE ASIA</figcaption>
 </figure>
 <figure>
 <img src="/media/gallery/conferences-events/5-2.jpg" >
-<figcaption>2024 ICCE ASIA</figcaption>
 </figure>
 
 </div>
