@@ -6,6 +6,26 @@ date: 2026-07-01
 <div class="conference-list">
 <section class="conference-card">
 <div class="conference-info">
+<h4> 반도체 인프라 인력양성사업 2026</h4>
+<p>2026.07.09 - 2026.07.10 <br> Korea University, Korea </p>
+<p><strong>Attendees</strong><br>Byunghun Lee</p>
+</div>
+<div class="conference-slider">
+<figure>
+<img src="/media/gallery/conferences-events/9-1.jpg" >
+</figure>
+<figure>
+<img src="/media/gallery/conferences-events/9-2.jpg" >
+</figure>
+</div>
+</section>
+</div>
+
+
+
+<div class="conference-list">
+<section class="conference-card">
+<div class="conference-info">
 <h4>The 57th KIEE Summer Conference 2026</h4>
 <p>2026.07.08 - 2026.07.11 <br>Yongpyong Resort, Gangwon-do, Korea </p>
 <p><strong>Attendees</strong><br>Junhyuck Lee</p>
