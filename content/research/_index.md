@@ -40,6 +40,31 @@ sections:
 
         We focus on biomedical circuits and systems that connect **IC design**, **wireless power/data links**, **neural interfaces**, and **real-world bioelectronic applications**.
 
+        ## Ongoing Research Projects
+
+        - **Modular High-Channel-Count ECoG Recording ICs**  
+          *Industry-funded*
+
+        - **Self-Powered Systems for Low-Power Sensors and Actuators**  
+          *Government-funded*
+
+        - **On-Chip PVT Monitoring Circuits**  
+          *Industry-funded*
+
+        - **Semiconductor Packaging and System Integration**  
+          *Government-funded*
+
+        - **Next-Generation High-Performance Brain–Computer Interface SoCs**  
+          *Government-funded*
+
+        - **Implantable Bioelectronic Systems for Human Augmentation**  
+          *Government-funded*
+
+        - **Wireless Peripheral Nerve Stimulation Systems**  
+          *Government-funded*
+
+        - **Resonant Near-Field Electrodes and Cavity Structures**  
+          *Industry-funded*          
         <br>
 
         <div class="row">
