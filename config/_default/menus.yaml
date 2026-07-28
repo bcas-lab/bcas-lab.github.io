@@ -17,7 +17,7 @@ main:
     url: people
     weight: 40
   - name: Publications
-    url: publication/
+    url: publication/#article-journal
     weight: 50
   - name: Gallery
     url: gallery/
