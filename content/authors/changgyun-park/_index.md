@@ -2,8 +2,8 @@
 title: Changgyun Park
 first_name: Changgyun 
 last_name: Park
-role: M.S Student
-      kevin9911@hanyang.ac.kr
+role: M.S. Degree
+      
 
 sort_order: 99
 organizations:

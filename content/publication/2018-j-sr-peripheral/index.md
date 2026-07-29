@@ -20,7 +20,7 @@ categories:
   - Journal Papers
 
 publication: "Scientific Reports, vol. 8, pp. 1-12"
-publication_short: "Sci. Rep.; **First author: B. Lee**"
+publication_short: "Sci. Rep; **First author: B. Lee**"
 
 abstract: ""
 

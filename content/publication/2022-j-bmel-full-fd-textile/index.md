@@ -17,7 +17,7 @@ categories:
   - Journal Papers
 
 publication: "Biomedical Engineering Letters, vol. 12, pp. 295-302"
-publication_short: "Biomed. Eng. Lett."
+publication_short: "Biomed. Eng. Lett"
 
 abstract: ""
 

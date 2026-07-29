@@ -18,7 +18,7 @@ categories:
   - Journal Papers
 
 publication: "Scientific Reports"
-publication_short: "Sci. Rep."
+publication_short: "Sci. Rep"
 
 abstract: ""
 

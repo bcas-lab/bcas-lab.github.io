@@ -19,7 +19,7 @@ categories:
   - Journal Papers
 
 publication: "Biomedical Engineering Letters, vol. 16, pp. 595-605"
-publication_short: "Biomed. Eng. Lett."
+publication_short: "Biomed. Eng. Lett"
 
 abstract: ""
 

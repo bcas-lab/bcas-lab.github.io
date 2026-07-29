@@ -2,8 +2,7 @@
 title: Jaeho Lee
 first_name: Jaeho 
 last_name: Lee
-role: M.S Student
-      leejh6783@gmail.com​
+role: "M.S. Degree · Initial placement after graduation: Ph.D. program in Georgia Institute of Technology"
 
 sort_order: 98
 organizations:

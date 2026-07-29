@@ -17,17 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
-  verification:
-    google: ''
-    baidu: ''
+    org_name: 'Biomedical Circuits and Systems Lab'
+    description: 'Biomedical Circuits and Systems Lab at Hanyang University develops low-power integrated circuits and systems for neural interfaces, wireless power and data transfer, neuromodulation, and bioelectronic systems.'
+    twitter: ''
 
 # Site header
 
@@ -48,12 +40,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Biomedical Circuits and Systems Lab, Hanyang University.'
     license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+      enable: false
 
 # Localization
 

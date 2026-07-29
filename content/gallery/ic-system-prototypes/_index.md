@@ -8,7 +8,7 @@ date: 2026-07-01
   <figure>
    <img src="/media/gallery/ic-system-prototypes/006.png" alt="Wireless pulse charger IC">
    <figcaption>
-    <strong>Project:</strong> Reconfigurable Wireless Power/Data IC<br>
+    <strong>Project:</strong> Wireless pulse charger IC<br>
     <strong>Technology:</strong> 180-nm CMOS<br>
     <strong>Key Specs:</strong> 92.6% peak Rx efficiency with BIR detection <br>
     <strong>Publication:</strong> IEEE TIE 2026

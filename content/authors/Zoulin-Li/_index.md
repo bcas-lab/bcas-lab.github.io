@@ -2,8 +2,8 @@
 title: Zuolin Li
 first_name: Zuolin 
 last_name: Li
-role: M.S Student
-      icecrealin@naver.com
+role: M.S. Degree
+      
 
 sort_order: 100
 

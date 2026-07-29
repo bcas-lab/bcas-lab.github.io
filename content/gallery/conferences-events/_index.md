@@ -111,7 +111,7 @@ date: 2026-07-01
 <div class="conference-info">
 <h4>The 56th KIEE Summer Conference 2025</h4>
 <p>2025.07.16 - 2025.07.19 <br>Bexco, Busan, Korea</p>
-<p><strong>Attendees</strong><br>Junhyuk lee, Dongrim Kim</p>
+<p><strong>Attendees</strong><br>Junhyuk Lee, Dongrim Kim</p>
 </div>
 <div class="conference-slider">
 <figure>
@@ -129,7 +129,7 @@ date: 2026-07-01
 <div class="conference-list">
 <section class="conference-card">
 <div class="conference-info">
-<h4>2025 IEEE VLSI Syposium</h4>
+<h4>2025 IEEE VLSI Symposium</h4>
 <p>2025.06.09 ~ 2025.06.12 <br>Rihga Royal Hotel Kyoto, Japan</p>
 <p><strong>Attendees</strong><br>Junhyuk Lee</p>
 </div>
@@ -154,7 +154,7 @@ date: 2026-07-01
 
 <h4>2025 The Korean Society of Medical & Biological Engineering Spring Conference</h4>
 <p>2025.05.08 ~ 2025.05.10 <br>​Lotte Hotel Jeju, Jeju, Korea</p>
-<p><strong>Attendees</strong><br>Jaehyeong Shin, Taegil Jung</p>
+<p><strong>Attendees</strong><br>Jaehyeong Shin, Taegil Jeong</p>
 </div>
 <div class="conference-slider">
 <figure>

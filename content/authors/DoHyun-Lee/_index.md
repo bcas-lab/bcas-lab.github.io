@@ -2,8 +2,7 @@
 title: Dohyun Lee
 first_name: Dohyun 
 last_name: Lee
-role: M.S Student
-      the8thhabit@hanyang.ac.kr
+role: "M.S. Alumnus · Initial placement: Texas Instruments"
 
 sort_order: 97
 
@@ -24,4 +23,5 @@ interests:
   - Neural Recording ADC Design
 
 ---
-**Initial placement after graduation:** Texas Instruments (TI)
+**Initial placement after graduation:** Texas Instruments
+

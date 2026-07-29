@@ -19,7 +19,7 @@ categories:
   - Journal Papers
 
 publication: "Biomedical Engineering Letters"
-publication_short: "Biomed. Eng. Lett."
+publication_short: "Biomed. Eng. Lett"
 
 abstract: ""
 

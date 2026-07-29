@@ -57,7 +57,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./join/" cta_text="Join BCAS Lab →" %}}
     design:
       columns: '1'
 ---
