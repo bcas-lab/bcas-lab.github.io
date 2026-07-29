@@ -74,14 +74,17 @@ The Biomedical Circuits and Systems Lab develops biomedical ICs and system-level
 - Associate Editor, *IEEE Transactions on Biomedical Circuits and Systems* (TBioCAS), 2024–2025
 - Live Demonstration Chair, IEEE Biomedical Circuits and Systems Conference (BioCAS), 2026
 - Tutorial Speaker, IEEE Biomedical Circuits and Systems Conference (BioCAS), 2026
+- Public Relations Chair, K-BCI Society, 2026–present
 - Scientific Program Committee Member, IFMBE Asian Pacific Conference on Medical and Biological Engineering (APCMBE), 2026
 - Special Session Chair, IEEE International Conference on Consumer Electronics–Asia (ICCE-Asia), 2024
 - General Chair, IEEE PELS Workshop on Emerging Technologies: Wireless Power, 2020
 - Guest Editor, *Frontiers in Human Neuroscience*, Special Issue on Miniaturized Wireless Neural Interfaces, 2020–2021
 - Review Committee Member, IEEE Biomedical Circuits and Systems Conference (BioCAS), 2018–2019
 
+
 ## Selected Domestic Activities
 
+- 한국 BCI 학회 홍보위원장
 - 대한의용생체공학회 학술이사
 - 한국반도체학술대회 분과위원
 - 대한전기학회 무선전력전송 분과 운영위원
