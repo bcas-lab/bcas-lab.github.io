@@ -23,7 +23,7 @@ publication_short: "IEEE JSSC"
 
 abstract: "This work presents a 13.56-MHz integrated transceiver that supports wireless power transfer and synchronized full-duplex data communication using a single inductive link for wearable biomedical applications."
 
-doi: ""
+doi: "10.1109/JSSC.2026.3720707"
 
 featured: true
 
