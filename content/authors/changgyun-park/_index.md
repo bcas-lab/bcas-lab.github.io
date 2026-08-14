@@ -2,7 +2,7 @@
 title: Changgyun Park
 first_name: Changgyun 
 last_name: Park
-role: M.S. Degree
+role: "M.S. Degree · Initial placement: InBody, Future Technology Research Institute, HW R&D"
       
 
 sort_order: 99
@@ -22,4 +22,5 @@ education:
 interests:
   - Low noise amplifier for RF application
 ---
-
+---
+**Initial placement after graduation:** InBody, Future Technology Research Institute, HW R&D

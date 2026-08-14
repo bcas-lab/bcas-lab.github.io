@@ -2,7 +2,7 @@
 title: Dohyun Lee
 first_name: Dohyun 
 last_name: Lee
-role: "M.S. Alumnus · Initial placement: Texas Instruments"
+role: "M.S. Degree · Initial placement: Texas Instruments"
 
 sort_order: 97
 
