@@ -4,6 +4,16 @@ date: 2026-07-01
 ---
 
 <div class="photo-grid">
+  <figure>
+    <img src="/media/gallery/ic-system-prototypes/007.png" alt="Square-based Temporal Interference Stimulation IC">
+    <figcaption>
+      <strong>Project:</strong> Square-based Temporal Interference Stimulation (TIS) IC<br>
+      <strong>Technology:</strong> 180-nm CMOS<br>
+      <strong>Key Specs:</strong> 13.56-MHz wireless power/data link, Sqauare-based TIS, 20 μA–1.4 mA/channel, programmable Δf of 30–500 Hz<br>
+      <strong>Publication:</strong> IEEE TBioCAS 2026
+    </figcaption>
+  </figure>
+
 
   <figure>
    <img src="/media/gallery/ic-system-prototypes/006.png" alt="Wireless pulse charger IC">
@@ -21,7 +31,7 @@ date: 2026-07-01
     <strong>Project:</strong> Reconfigurable Wireless Power/Data IC<br>
     <strong>Technology:</strong> 180-nm CMOS<br>
     <strong>Key Specs:</strong> 400 kbps full-duplex synchronized data <br>
-    <strong>Publication:</strong> IEEE VLSI 2025
+    <strong>Publication:</strong> IEEE VLSI 2025, IEEE JSSC 2026
    </figcaption>
   </figure>
 

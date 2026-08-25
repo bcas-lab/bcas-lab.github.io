@@ -1,7 +1,6 @@
 ---
 title: "Paper Accepted to IEEE Transactions on Biomedical Circuits and Systems"
-
-date: "2026-08-26"
+date: "2026-08-26T08:20:00+09:00"
 
 summary: "Yemin Kim and co-authors' paper on a square-based Temporal Interference Stimulation (TIS) IC was accepted for publication in IEEE Transactions on Biomedical Circuits and Systems."
 
