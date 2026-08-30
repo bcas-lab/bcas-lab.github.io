@@ -10,7 +10,7 @@ authors:
 
 date: "2026-08-25T00:00:00Z"
 
-doi: ""
+doi: "10.1109/TBCAS.2026.3728824"
 
 publication_types:
   - article-journal
