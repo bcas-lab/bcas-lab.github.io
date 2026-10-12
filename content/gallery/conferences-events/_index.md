@@ -6,6 +6,49 @@ date: 2026-07-01
 <div class="conference-list">
 <section class="conference-card">
 <div class="conference-info">
+<h4>IEEE BioCAS 2026</h4>
+<p>2026.10.08 - 2026.10.10 <br> Incheon, Korea</p>
+<p><strong>Attendees</strong><br>BCAS Lab Members</p>
+</div>
+<div class="conference-slider">
+<figure>
+<img src="/media/gallery/conferences-events/10-1.jpg">
+</figure>
+<figure>
+<img src="/media/gallery/conferences-events/10-2.jpg">
+</figure>
+<figure>
+<img src="/media/gallery/conferences-events/10-3.jpg">
+</figure>
+<figure>
+<img src="/media/gallery/conferences-events/10-4.jpg">
+</figure>
+<figure>
+<img src="/media/gallery/conferences-events/10-5.jpg">
+</figure>
+<figure>
+<img src="/media/gallery/conferences-events/10-6.jpg">
+</figure>
+<figure>
+<img src="/media/gallery/conferences-events/10-7.jpg">
+</figure>
+<figure>
+<img src="/media/gallery/conferences-events/10-8.jpg">
+</figure>
+<figure>
+<img src="/media/gallery/conferences-events/10-9.jpg">
+</figure>
+</div>
+</section>
+</div>
+
+
+
+
+
+<div class="conference-list">
+<section class="conference-card">
+<div class="conference-info">
 <h4> 반도체 인프라 인력양성사업 2026</h4>
 <p>2026.07.09 - 2026.07.10 <br> Korea University, Korea </p>
 <p><strong>Attendees</strong><br>Byunghun Lee</p>
