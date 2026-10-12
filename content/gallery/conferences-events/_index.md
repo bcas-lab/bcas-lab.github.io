@@ -32,12 +32,7 @@ date: 2026-07-01
 <figure>
 <img src="/media/gallery/conferences-events/10-7.jpg">
 </figure>
-<figure>
-<img src="/media/gallery/conferences-events/10-8.jpg">
-</figure>
-<figure>
-<img src="/media/gallery/conferences-events/10-9.jpg">
-</figure>
+
 </div>
 </section>
 </div>
