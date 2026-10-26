@@ -2,7 +2,7 @@
 title: "A Compact 92.4%-peak Efficiency Photovoltaic-powered Li-ion Battery Charger with Interleaved Pulse Charging and Built-in Resistance Detection"
 
 authors:
-  - minsu-song
+  - minsoo-song
   - admin
 
 date: "2026-10-25T00:00:00Z"
