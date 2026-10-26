@@ -20,5 +20,6 @@ education:
     - course: B.S. in Biomedical Engineering
       institution: Hanyang University
 
+interests:
+  - Neural Recording IC Design
 ---
-Research interests: Neural Recording IC Design
