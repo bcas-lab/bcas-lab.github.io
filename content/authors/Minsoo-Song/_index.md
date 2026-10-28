@@ -1,6 +1,6 @@
 ---
-title: Min Soo Song
-first_name: Min Soo
+title: Minsoo Song
+first_name: Minsoo
 last_name: Song
 role: Ph.D. Student
       sms2188@hanyang.ac.kr
