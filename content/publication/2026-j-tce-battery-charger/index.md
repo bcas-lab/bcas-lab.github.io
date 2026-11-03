@@ -6,6 +6,7 @@ authors:
   - admin
 
 date: "2026-10-25T00:00:00Z"
+doi: "10.1109/TCE.2026.3749207"
 
 publication_types:
   - article-journal
