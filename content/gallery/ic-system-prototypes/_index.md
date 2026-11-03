@@ -3,7 +3,18 @@ title: IC & System Prototypes
 date: 2026-07-01
 ---
 
+
 <div class="photo-grid">
+  <figure>
+    <img src="/media/gallery/ic-system-prototypes/008.png" alt="Photovoltaic-Powered Interleaved Pulse Charger IC">
+    <figcaption>
+      <strong>Project:</strong> Photovoltaic-Powered Interleaved Pulse Charger IC<br>
+      <strong>Technology:</strong> 180-nm CMOS<br>
+      <strong>Key Specs:</strong> 92.4% peak efficiency, 91.9% average efficiency, dual-battery interleaved pulse charging, built-in resistance (BIR) detection, 7.8% charging time reduction<br>
+      <strong>Publication:</strong> IEEE TCE 2026
+    </figcaption>
+  </figure>  
+
   <figure>
     <img src="/media/gallery/ic-system-prototypes/007.png" alt="Square-based Temporal Interference Stimulation IC">
     <figcaption>
