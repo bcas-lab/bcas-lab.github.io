@@ -14,7 +14,7 @@ publication_types:
 categories:
   - Journal Papers
 
-publication: "IEEE Transactions on Consumer Electronics, in press"
+publication: "IEEE Transactions on Consumer Electronics, Early Access"
 
 publication_short: "IEEE TCE"
 
@@ -37,6 +37,8 @@ image:
   preview_only: false
 ---
 
-**Status:** In press
+**Status:** Early Access
 
 **Journal metrics:** SCIE Q1, IF 10.9, JCR Top 3.1%
+
+**Paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/11770013)
