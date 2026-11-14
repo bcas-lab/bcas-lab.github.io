@@ -10,7 +10,7 @@ authors:
   - admin
 
 date: "2026-11-10T00:00:00Z"
-doi: ""
+doi: "10.1109/TCE.2026.3753592"
 
 publication_types:
   - article-journal
