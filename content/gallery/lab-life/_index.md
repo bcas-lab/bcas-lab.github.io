@@ -6,6 +6,21 @@ date: 2026-07-01
 <div class="lab-list">
 <section class="lab-card">
 <div class="lab-info">
+<h4>2026 10월 회식</h4>
+<p>2026.10.29</p>
+</div>
+<div class="lab-slider">
+<figure>
+<img src="/media/gallery/lab-life/017.jpg" alt="2026. 10월 회식">
+</figure>
+</div>
+</section>
+
+
+
+<div class="lab-list">
+<section class="lab-card">
+<div class="lab-info">
 <h4>2026 하계 MT</h4>
 <p>2026.08.06 </p>
 </div>

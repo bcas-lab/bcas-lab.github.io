@@ -4,6 +4,26 @@ date: 2026-07-01
 ---
 
 <div class="conference-list">
+  <section class="conference-card">
+    <div class="conference-info">
+      <h4>APCMBE 2026</h4>
+      <p>2026.11.04 - 2026.11.07<br>EXCO, Daegu, Korea</p>
+      <p><strong>Attendees</strong><br>Byunghun Lee, Dongil Kang</p>
+    </div>
+    <div class="conference-slider">
+      <figure>
+        <img src="/media/gallery/conferences-events/11-1.jpg">
+      </figure>
+      <figure>
+        <img src="/media/gallery/conferences-events/11-2.jpg">
+      </figure>
+    </div>
+  </section>
+</div>
+
+
+
+<div class="conference-list">
 <section class="conference-card">
 <div class="conference-info">
 <h4>IEEE BioCAS 2026</h4>
